@@ -1,0 +1,2 @@
+com.tencent.ig
+/data/app/com.tencent.ig-ITx5ux_YMLDSe1VIEEjAxA==/lib/arm64/
